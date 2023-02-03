@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=on8214)](https://solved.ac/on8214)
 <!--
 **Hypersand/Hypersand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
