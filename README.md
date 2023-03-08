@@ -1,8 +1,8 @@
-# 코린이중의 코린이중의 코린이
+# 코린이중의 코린이중의 코린이Cancel changes
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=on8214)](https://solved.ac/on8214)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hypersand&layout=compact&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hypersand&layout=compact&theme=dark)
 
 <!--
 **Hypersand/Hypersand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
