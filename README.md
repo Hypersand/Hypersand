@@ -2,7 +2,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=on8214)](https://solved.ac/on8214)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hypersand&layout=compact&theme=dark)
+![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=Hypersand&layout=compact&theme=merko)
 
 <!--
 **Hypersand/Hypersand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
